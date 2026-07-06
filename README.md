@@ -1,4 +1,4 @@
-# 🐥 Flappy Bird
+# 🐤 Flappy Bird
 
 A simple clone of the classic **Flappy Bird** game built with C# and Windows Forms (.NET Framework 4.7.2).
 
