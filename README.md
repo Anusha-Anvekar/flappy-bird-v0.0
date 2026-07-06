@@ -41,6 +41,16 @@ Alternatively, run the compiled executable directly:
 FlappyBird\bin\Debug\FlappyBird.exe
 ```
 
+### Building from the command line
+
+> ⚠️ **Don't use `dotnet build`/`dotnet run`** — this is a legacy .NET Framework 4.7.2 WinForms project, so the .NET SDK fails on its binary `.resx` resources. Use **MSBuild** (from Visual Studio) instead:
+
+```powershell
+msbuild FlappyBird\FlappyBird.csproj /p:Configuration=Debug /p:Platform="AnyCPU"
+```
+
+Then run: `.\FlappyBird\bin\Debug\FlappyBird.exe`
+
 ## Project Structure
 
 ```
