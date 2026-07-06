@@ -1,6 +1,10 @@
-# � Flappy Bird
+# 🐥 Flappy Bird
 
 A simple clone of the classic **Flappy Bird** game built with C# and Windows Forms (.NET Framework 4.7.2).
+
+## 📸 Preview
+<img width="431" height="520" alt="image" src="https://github.com/user-attachments/assets/7ff9e558-8d53-4405-aa4d-3a1a74b52f3f" />
+
 
 ## Gameplay
 
