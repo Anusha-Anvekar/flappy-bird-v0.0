@@ -1,0 +1,11 @@
+D:\Trainings\C#_2\FlappyBird\FlappyBird\bin\Release\FlappyBird.exe.config
+D:\Trainings\C#_2\FlappyBird\FlappyBird\bin\Release\FlappyBird.exe
+D:\Trainings\C#_2\FlappyBird\FlappyBird\bin\Release\FlappyBird.pdb
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.csproj.AssemblyReference.cache
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.csproj.SuggestedBindingRedirects.cache
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.Form1.resources
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.Properties.Resources.resources
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.csproj.GenerateResource.cache
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.csproj.CoreCompileInputs.cache
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.exe
+D:\Trainings\C#_2\FlappyBird\FlappyBird\obj\Release\FlappyBird.pdb
